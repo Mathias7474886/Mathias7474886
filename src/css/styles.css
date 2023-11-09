@@ -1,0 +1,223 @@
+body {
+    background-color: #5286C1;
+    font-family: Arial;
+    font-size: 16px;
+}
+
+.nav_oben {
+    list-style: none;
+    background-color: #4371A3;
+    color: white;
+    margin-left: 130px;
+    width: 875px;
+    height: 22px;
+    padding-top: 5px;
+}
+
+li {
+    display: inline;
+    padding: 11px
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+a {
+    text-decoration: none;
+    color: white;
+
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #ABBFD2;
+}
+
+.imglogo {
+    margin-left: 210px;
+    margin-top: 12px;
+    height: 48px;
+    margin-bottom: 12px;
+}
+
+ 
+
+
+.box2 {
+    background-color: #4371A3;
+    height: 22px;
+    margin-left: 130px;
+    width: 875px;
+    height: 35px;
+}
+
+.bild1 {
+    width: 171px;
+    height: 271px;
+}
+
+.divrechts{
+
+width: 171px;
+height: 271px;
+display: inline-block;
+color: white;
+font-size: 18px;
+background-size: cover;
+background-image: url(../../images/6\ der\ man.png);
+}
+
+.divlinks{
+background-image: url("../../images/1.png"); /* Bild als hintergrund eibfügen */ 
+display: inline-block;
+
+width: 171px;
+height: 271px;
+color: white;
+font-size: 18px;
+background-size: cover; /* Passt das bild hinein */
+
+}
+
+
+.divmitte{
+    width: 524.1px;
+
+    height: 271px;
+display:inline-block;
+}
+
+  
+
+
+.boxmitbilder {
+    width: 875px;
+    background-color: #5A8BC4;
+    height: 2075px;
+    margin-left: 130px;
+
+}
+
+.unten {
+    width: 875px;
+    height: 55px;
+    background-color: #0B3861;
+    margin-left: 130px;
+    margin-bottom: 25px;
+
+}
+
+
+.textlinks{
+float: left;
+padding-top: 240px;
+padding-left: 5px;
+font-weight: bolder;
+}
+
+
+.textrechts{
+float: left;
+padding-top: 240px;
+padding-left: 5px;
+font-weight: bolder;
+
+}
+
+.mitteoben{
+float:left;
+color: white;
+font-weight: bolder;
+height: 135.5px;
+
+width: 524px;
+}
+
+
+.mitteobenlinks{
+  
+width:347px ;
+height:133px ;
+float: left;
+background-image: url("../../images/7.png");
+background-size: cover;
+}
+
+
+.mitteobenrechts{
+    
+    width: 173px ;
+    height: 133px;
+    float: right;
+background-image: url(../../images/4.png);
+background-size: cover;
+}
+
+.mitteunten{
+    
+width: 524px;
+height: 133px;
+float:left;
+
+}
+
+
+
+
+.mitteuntenlinks{
+    
+float: left;
+width: 171px;
+height: 133px;
+background-image: url(../../images/6.png);
+background-size: cover;
+
+}
+
+.mitteuntenrechts{
+   
+    float: right;
+    width: 347px;
+    height: 133px;
+background-image:url(../../images/MicrosoftTeams-image\ \(3\).png);
+background-size: cover;
+}
+
+.mitteuntenlinkstext{
+color: white;
+font-weight: bolder;
+
+}
+
+
+.mitteuntenrechts{
+    color: white;
+    font-weight: bolder;
+    
+}
+
+.mitteobenlinkstext{
+    padding-top: 110px;
+padding-left: 10px;
+}
+
+.Textpausland{
+color:black;
+font-weight: bolder;
+margin-top: 24px;
+padding-left: 20px;
+width: 161px;
+text-align: right;
+display: inline-block;
+
+}
+
+.textausland1{
+    display: inline-block;
+width: 300px;
+margin-left: 80px;
+margin-top: 70px
+}
